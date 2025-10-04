@@ -15,5 +15,5 @@ house_prices_env/  # Your virtual environment folder
 */.ipynb_checkpoints/*
 
 # Generated Data & Outputs
-data/processed/    # Ignore the generated data files, keep the raw ones
-submissions/       # Ignore model predictions (you can change 'outputs/' to 'submissions/'
+data/processed/    # Ignore generated data files, keep raw ones
+submissions/       # Ignore model predictions (change this if needed)
