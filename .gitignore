@@ -4,7 +4,7 @@ __pycache__/
 *.pyo
 *.pyd
 env/
-House_Prices_env/  # Your virtual environment folder
+house_prices_env/  # Your virtual environment folder
 
 # IDE/OS files
 .DS_Store          # macOS system file
